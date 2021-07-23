@@ -1,6 +1,5 @@
 //
 //  FeedbackListTableViewCell.swift
-//  DNS-SHOP
 //
 //  Created by Владислав Костромин on 31.05.2021.
 //
