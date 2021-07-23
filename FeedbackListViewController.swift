@@ -1,6 +1,5 @@
 //
 //  FeedbackListViewController.swift
-//  DNS-SHOP
 //
 //  Created by Владислав Костромин on 28.05.2021.
 //  
