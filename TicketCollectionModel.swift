@@ -1,7 +1,5 @@
 //
 //  FeedbackListSection.swift
-//  DNS-SHOP
-//
 //  Created by Владислав Костромин on 02.06.2021.
 //
 
